@@ -1,0 +1,69 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            17:9d:62:e8:7b:06:3b:cd:17:2d:6a:32:89:e4:14:e6
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: CN=VPN-CA
+        Validity
+            Not Before: Sep 17 20:54:42 2024 GMT
+            Not After : Dec 21 20:54:42 2026 GMT
+        Subject: CN=server
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:90:8b:20:8c:86:cd:41:9b:16:e6:ce:83:d8:8b:
+                    17:8c:4b:40:83:75:25:94:00:74:ec:a9:e9:ae:db:
+                    58:24:d0:41:fb:f9:6f:f1:a7:11:4d:2a:4e:1a:e7:
+                    38:d3:b2:7f:8e:e5:2a:f2:08:3c:e0:d3:09:d0:dd:
+                    d3:72:8f:26:35:0f:07:5c:4c:8f:e7:61:77:cb:32:
+                    6e:23:fb:89:5f:cd:a2:5e:ba:3c:4e:a8:2b:cb:53:
+                    f0:f6:5e:56:24:c2:84:da:44:5e:b3:06:ea:d9:57:
+                    54:b4:5b:2b:4c:87:05:5b:68:e5:15:db:3d:c3:f3:
+                    18:da:fa:f0:f1:56:99:44:02:2a:51:61:81:b4:03:
+                    63:b5:0a:27:93:e2:ac:aa:8e:61:55:12:6a:80:15:
+                    cc:1b:24:21:1d:19:6c:17:5f:54:b8:5e:fe:ab:94:
+                    47:38:8b:70:53:54:20:a2:e6:1e:1d:b6:99:d2:19:
+                    b3:23:61:fe:55:10:53:00:cb:e9:d2:d8:3b:d1:ec:
+                    4d:e0:f5:aa:02:17:71:3f:cb:05:51:d3:b9:10:7f:
+                    ac:b6:43:99:71:55:c1:9e:6a:3d:c0:1c:ea:22:c2:
+                    65:25:aa:ec:11:06:4d:8f:b8:25:97:46:ab:36:ac:
+                    ce:d7:0b:26:71:b2:df:d5:89:8e:8b:d7:ee:27:53:
+                    a4:89
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                F2:C6:0C:10:9B:DB:5B:8B:4D:F9:9D:EA:E7:2D:33:B4:29:72:81:BF
+            X509v3 Authority Key Identifier: 
+                keyid:77:C9:A4:69:46:A0:F2:47:55:92:E9:60:0C:85:0C:CD:3F:8E:7F:1B
+                DirName:/CN=VPN-CA
+                serial:05:C6:3F:BB:B1:78:63:8B:22:7D:03:CF:A2:06:20:A0:C1:7D:83:7D
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication
+            X509v3 Key Usage: 
+                Digital Signature, Key Encipherment
+            X509v3 Subject Alternative Name: 
+                DNS:server
+    Signature Algorithm: sha256WithRSAEncryption
+    Signature Value:
+        61:9a:97:b5:95:83:0c:9f:ff:af:a0:8c:15:9a:92:cb:a9:9f:
+        b8:3e:67:c4:f9:1d:72:ad:c1:6c:b6:1d:2a:fd:31:bc:e0:eb:
+        29:1b:d2:f8:f4:ba:ca:4c:33:f3:7b:7e:87:9a:cb:42:11:07:
+        75:e9:ae:68:59:46:c8:7e:ac:a3:90:a5:74:ce:b1:7d:cc:79:
+        4a:15:2b:df:8c:cd:ba:b4:fd:f8:24:6e:7e:0d:44:7c:a1:be:
+        32:c1:02:74:ac:2f:ef:c3:9b:c7:95:12:1f:96:3a:ff:47:1b:
+        d2:27:1b:a5:bf:c7:8b:e0:47:cb:be:fa:91:36:08:3c:59:72:
+        06:d6:9c:f0:aa:cf:3d:df:88:56:56:e9:ea:c2:f0:19:ab:6e:
+        77:0b:9f:f9:55:28:eb:b5:4e:c4:5e:8a:24:77:c4:b1:f3:81:
+        e6:be:5f:11:32:2e:e1:e8:56:ce:e2:ec:87:24:1b:87:43:10:
+        9d:db:32:7f:96:c3:5b:b8:a7:03:eb:f3:35:8b:c6:2e:66:31:
+        8c:cb:d1:eb:85:50:9d:10:09:d8:96:b0:17:0c:0c:bc:0a:20:
+        c5:3c:75:af:8a:09:c6:eb:c5:b9:98:e2:14:62:72:fd:0f:98:
+        5e:ca:b3:4a:f2:b0:30:7a:7f:db:fb:9a:ee:80:70:1c:85:0b:
+        c2:5e:16:64
+-----BEGIN CERTIFICATE-----
+
+-----END CERTIFICATE-----
